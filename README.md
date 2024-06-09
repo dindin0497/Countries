@@ -1,4 +1,5 @@
 # Countries
 
 
-[![Watch the video](https://github.com/dindin0497/Countries/blob/main/thumbnail.png)](https://github.com/dindin0497/Countries/blob/main/demo.mp4)
+https://github.com/dindin0497/Countries/assets/7930467/7874e79f-1b6b-4a97-9f39-7767c2469835
+
